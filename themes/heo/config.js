@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎访问我的博客', url: 'https://github.com/dreameutopia' },
-    { title: '如需访问ChatGPT请联系我获得密钥', url: 'https://github.com/dreameutopia' }
+    { title: '希望能给你带来帮助', url: '#' }
   ],
 
   // 英雄区左右侧组件颠倒位置
