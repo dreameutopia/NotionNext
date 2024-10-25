@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与日常生活',
-  HEO_HERO_TITLE_3: 'dreameutopia.cn',
+  HEO_HERO_TITLE_3: 'www.dreameutopia.cn',
   HEO_HERO_TITLE_4: '扬帆起航',
   HEO_HERO_TITLE_5: 'DreamEutopia 崭新的开始',
   HEO_HERO_TITLE_LINK: 'https://github.com/dreameutopia',
